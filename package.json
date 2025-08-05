@@ -10,7 +10,6 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "npx gh-pages -d dist"
-
   },
   "dependencies": {
     "react": "^19.1.0",
